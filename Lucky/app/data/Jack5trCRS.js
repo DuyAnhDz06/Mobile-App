@@ -17,4 +17,16 @@ export const jack5tr = [
     description: 'Test 3',
     id: 3,
   },
+  {
+    title: 'Trúng Số',
+    image: require('@app/assets/images/vl4.png'),
+    description: 'Test 4',
+    id: 4,
+  },
+  {
+    title: 'Trúng Số Vietlot',
+    image: require('@app/assets/images/vl5.png'),
+    description: 'Test 5',
+    id: 5,
+  },
 ];
