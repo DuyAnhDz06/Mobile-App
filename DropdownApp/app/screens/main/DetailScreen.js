@@ -3,7 +3,7 @@ import { View, StyleSheet, Text, TouchableOpacity, ScrollView } from 'react-nati
 import { useNavigation } from '@react-navigation/native';
 import Entypo from 'react-native-vector-icons/Entypo';
 import tkkt133 from '../../data/tkkt-133.json'
-const DetailScreen = ({ route,navigation }) => {
+const DetailScreen = ({ route, navigation }) => {
     // console.log(route.params.tn)
     return (
         <ScrollView style={{ backgroundColor: '#fff', }}>

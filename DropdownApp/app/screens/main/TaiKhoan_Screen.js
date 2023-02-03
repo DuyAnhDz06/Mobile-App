@@ -3,7 +3,7 @@ import { View, StyleSheet, Text, TouchableOpacity, ScrollView } from 'react-nati
 import { useNavigation } from '@react-navigation/native';
 import Entypo from 'react-native-vector-icons/Entypo';
 import tkkt133 from '../../data/tkkt-133.json'
-const TaiKhoan_Screen = ({ route,navigation }) => {
+const TaiKhoan_Screen = ({ route, navigation }) => {
     const tk = tkkt133.item
     // console.log(route.params)
     return (
@@ -12,7 +12,7 @@ const TaiKhoan_Screen = ({ route,navigation }) => {
                 return (
                     <View style={styles.container}>
                         <TouchableOpacity onPress={() => {
-                            navigation.navigate('DetailScreen',{tn: i.name,tc: i.code,nt: i.nguyentac})
+                            navigation.navigate('DetailScreen', { tn: i.name, tc: i.code, nt: i.nguyentac })
                         }}>
                             <Text style={styles.name}>{i.name}</Text>
                             <Text style={styles.name}>Số Hiệu: {i.code}</Text>
@@ -42,7 +42,7 @@ const styles = StyleSheet.create({
     },
     name: {
         fontSize: 16,
-        
+
     },
     count: {
         fontSize: 16,

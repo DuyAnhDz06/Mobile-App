@@ -2,9 +2,9 @@ import React, { useEffect } from 'react';
 import { View, StyleSheet, Text, TouchableOpacity, ScrollView, } from 'react-native';
 import { useNavigation } from '@react-navigation/native';
 import mapdata from '../../data/map.json'
-const StructureScreen = ({ route,navigation }) => {
+const StructureScreen = ({ route, navigation }) => {
     const mp = mapdata.map
-     console.log(route.params)
+    console.log(route.params)
 
     return (
         <ScrollView style={{ backgroundColor: '#fff', flex: 1 }}>
