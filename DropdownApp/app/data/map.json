@@ -1,0 +1,1108 @@
+{  
+   "map":[  
+      {  
+         "name":"Kế toán tiền mặt (VNĐ)",
+         "mapcode":"1a",
+         "accountcode":"111",
+         "url":"https://i.imgur.com/ur9I0Pt.jpg"
+      },
+      {  
+         "name":"Kế toán tiền mặt (Ngoại tệ)",
+         "mapcode":"1b",
+         "accountcode":"111",
+         "url":"https://i.imgur.com/YCRfQF0.jpg"
+      },
+      {  
+         "name":"Kế toán đánh giá lại vàng tiền tệ",
+         "mapcode":"1c",
+         "accountcode":"111",
+         "url":"https://i.imgur.com/MXgGFwB.jpg"
+      },
+      {  
+         "name":"Kế toán tiền gửi ngân hàng (VNĐ)",
+         "mapcode":"2a",
+         "accountcode":"112",
+         "url":"https://i.imgur.com/Y5NHf4D.jpg"
+      },
+      {  
+         "name":"Kế toán tiền gửi ngân hàng (Ngoại tệ)",
+         "mapcode":"2b",
+         "accountcode":"112",
+         "url":"https://i.imgur.com/WY3oBkN.jpg"
+      },
+      {  
+         "name":"Kế toán đánh giá lại vàng tiền tệ",
+         "mapcode":"2c",
+         "accountcode":"112",
+         "url":"https://i.imgur.com/tfBAiTG.jpg"
+      },
+      {  
+         "name":"Kế toán tiền đang chuyển",
+         "mapcode":"3",
+         "accountcode":"113",
+         "url":"https://i.imgur.com/AeNrKjD.jpg"
+      },
+      {  
+         "name":"Kế toán chứng khoán kinh doanh",
+         "mapcode":"4",
+         "accountcode":"121",
+         "url":"https://i.imgur.com/DyNnns2.jpg"
+      },
+      {  
+         "name":"Kế toán đầu tư nắm giữ đến ngày đáo hạn",
+         "mapcode":"5",
+         "accountcode":"128",
+         "url":"https://i.imgur.com/aEb5IcQ.jpg"
+      },
+      {  
+         "name":"Kế toán đầu tư nắm giữ đến ngày đáo hạn (tiếp)",
+         "mapcode":"6",
+         "accountcode":"128",
+         "url":"https://i.imgur.com/WfjG9p8.jpg"
+      },
+      {  
+         "name":"Kế toán phải thu của khách hàng",
+         "mapcode":"7",
+         "accountcode":"131",
+         "url":"https://i.imgur.com/a4jSSRD.jpg"
+      },
+      {  
+         "name":"Kế toán thuế giá trị gia tăng đầu vào",
+         "mapcode":"8",
+         "accountcode":"131",
+         "url":"https://i.imgur.com/lbmCr9z.jpg"
+      },
+      {  
+         "name":"Kế toán phải thu nội bộ về vốn kinh doanh ở các đơn vị trực thuộc",
+         "mapcode":"9a",
+         "accountcode":"136",
+         "url":"https://i.imgur.com/EzOsBik.jpg"
+      },
+      {  
+         "name":"Kế toán các khoản phải thu nội bộ khác",
+         "mapcode":"9b",
+         "accountcode":"136",
+         "url":"https://i.imgur.com/xBTiEVY.jpg"
+      },
+      {  
+         "name":"Kế toán tại chủ đầu tư có thành lập BQLDA đầu tư",
+         "mapcode":"9c",
+         "accountcode":"136",
+         "url":"https://i.imgur.com/MqBTvH5.jpg"
+      },
+      {  
+         "name":"Kế toán tài sản thiếu chờ xử lý",
+         "mapcode":"10a",
+         "accountcode":"138",
+         "url":"https://i.imgur.com/BtfBDYG.jpg"
+      },
+      {  
+         "name":"Kế toán các khoản phải thư khác",
+         "mapcode":"10b",
+         "accountcode":"138",
+         "url":"https://i.imgur.com/n9mLGbv.jpg"
+      },
+      {  
+         "name":"Kế toán khoản phải thu về cổ phần hóa",
+         "mapcode":"10c",
+         "accountcode":"138",
+         "url":"https://i.imgur.com/rInmSg7.jpg"
+      },
+      {  
+         "name":"Kế toán tạm ứng",
+         "mapcode":"11",
+         "accountcode":"141",
+         "url":"https://i.imgur.com/jninJz5.jpg"
+      },
+      {  
+         "name":"Kế toán hàng mua đang đi đường",
+         "mapcode":"12a",
+         "accountcode":"151",
+         "url":"https://i.imgur.com/Md6W1zS.jpg"
+      },
+      {  
+         "name":"Kế toán hàng mua đang đi đường",
+         "mapcode":"12b",
+         "accountcode":"151",
+         "url":"https://i.imgur.com/1ZTrcOA.jpg"
+      },
+      {  
+         "name":"Kế toán nguyên liệu, vật liệu",
+         "mapcode":"13",
+         "accountcode":"152",
+         "url":"https://i.imgur.com/RDXbvha.jpg"
+      },
+      {  
+         "name":"Kế toán công cụ, dụng cụ",
+         "mapcode":"14",
+         "accountcode":"153",
+         "url":"https://i.imgur.com/EGu1WJ6.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí sản xuất, kinh doanh dở dang",
+         "mapcode":"15",
+         "accountcode":"154",
+         "url":"https://i.imgur.com/8L34h7d.jpg"
+      },
+      {  
+         "name":"Kế toán thành phẩm",
+         "mapcode":"16",
+         "accountcode":"155",
+         "url":"https://i.imgur.com/pKd6fAH.jpg"
+      },
+      {  
+         "name":"Kế toán hàng hóa",
+         "mapcode":"17",
+         "accountcode":"156",
+         "url":"https://i.imgur.com/QeNjb8p.jpg"
+      },
+      {  
+         "name":"Kế toán hàng hóa(tiếp)",
+         "mapcode":"17(tiep)",
+         "accountcode":"156",
+         "url":"https://i.imgur.com/xUijMBt.jpg"
+      },
+      {  
+         "name":"Kế toán hàng gửi đi bán",
+         "mapcode":"18",
+         "accountcode":"157",
+         "url":"https://i.imgur.com/UfKVTIH.jpg"
+      },
+      {  
+         "name":"Kế toán hàng hoán kho bảo thuế",
+         "mapcode":"19",
+         "accountcode":"1158",
+         "url":"https://i.imgur.com/IXBwsbC.jpg"
+      },
+      {  
+         "name":"Kế toán nguyên vật liệu, công cụ, dụng cụ, hàng hóa, hàng gửi đi bán",
+         "mapcode":"20",
+         "accountcode":"611",
+         "url":"https://i.imgur.com/IO0XVu4.jpg"
+      },
+      {  
+         "name":"Kế toán thành phẩm",
+         "mapcode":"21",
+         "accountcode":"155",
+         "url":"https://i.imgur.com/rWqiJjw.jpg"
+      },
+      {  
+         "name":"Kế toán chi hoạt động sự nghiệp",
+         "mapcode":"22",
+         "accountcode":"161",
+         "url":"https://i.imgur.com/k2dYc6N.jpg"
+      },
+      {  
+         "name":"Kế toán giao dịch mua bán lại trái phiếu chính phủ",
+         "mapcode":"23",
+         "accountcode":"171",
+         "url":"https://i.imgur.com/JTo8mGn.jpg"
+      },
+      {  
+         "name":"Kế toán TSCĐ tăng do mua ngoài dùng vào hoạt động SXKD",
+         "mapcode":"24a",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/Xak0QFc.jpg"
+      },
+      {  
+         "name":"Kế toán TSCĐ hữu hình mua ngoài theo phương thức trả chậm, trả góp",
+         "mapcode":"24b",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/f3qH5OB.jpg"
+      },
+      {  
+         "name":"Kế toán TSCĐ hữu hình mua dưới hình thức trao đổi",
+         "mapcode":"24c",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/y6hIvXe.jpg"
+      },
+      {  
+         "name":"Kế toán TSCĐ hữu hình tự sản xuất",
+         "mapcode":"24d",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/rvCmC4E.jpg"
+      },
+      {  
+         "name":"Kế toán TSCĐ tăng do XDCB hoàn thành",
+         "mapcode":"25",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/iO4w15E.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí phát sinh sau khi ghi nhận ban đầu TSCĐ hữu hình",
+         "mapcode":"26",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/r3WTNeU.jpg"
+      },
+      {  
+         "name":"Kế toán chi mua sắm TSCĐ bằng nguồn kinh phí sự nghiệp, dự án dùng vào hoạt động sự nghiệp, dự án",
+         "mapcode":"27",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/sf7S8qm.jpg"
+      },
+      {  
+         "name":"Kế toán chi mua sắm TSCĐ bằng quỹ phúc lợi dùng vào hoạt động phúc lợi",
+         "mapcode":"28",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/uV6agVX.jpg"
+      },
+      {  
+         "name":"Kế toán các trường hợp khác ghi tăng TSCĐ hữu hình",
+         "mapcode":"29",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/OEHXKDJ.jpg"
+      },
+      {  
+         "name":"Kế toán ghi giảm TSCĐ hữu hình chuyển thành công cụ, dụng cụ",
+         "mapcode":"30",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/EL2vIew.jpg"
+      },
+      {  
+         "name":"Hạch toán thanh lý, nhượng bán TSCĐ hữu hình dùng vào hoạt động SXKD",
+         "mapcode":"31",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/eIdUD8f.jpg"
+      },
+      {  
+         "name":"Kế toán nhượng bán TSCĐ hữu hình dùng vào hoạt động văn hóa, phúc lợi và sự nghiệp, dự án",
+         "mapcode":"32",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/Tt2uGTW.jpg"
+      },
+      {  
+         "name":"Kế toán góp vốn bằng TSCĐ vào công ty con, cơ sở liên doanh đồng kiểm soát",
+         "mapcode":"33",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/5q8LnFg.jpg"
+      },
+      {  
+         "name":"Kế toán TSCĐ phát hiện thừa",
+         "mapcode":"34",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/26anL2x.jpg"
+      },
+      {  
+         "name":"Kế toán TSCĐ phát hiện thiếu",
+         "mapcode":"35a",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/UDQj4S3.jpg"
+      },
+      {  
+         "name":"Kế toán TSCĐ phát hiện thiếu",
+         "mapcode":"35b",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/QfVpWqB.jpg"
+      },
+      {  
+         "name":"Kế toán xử lý TSCĐ hữu hình khi kiểm kê tại thời điểm xác định giá trị doanh nghiệp để CPH DN 100% vốn nhà nước",
+         "mapcode":"35c",
+         "accountcode":"211",
+         "url":"https://i.imgur.com/rGpKbtZ.jpg"
+      },
+      {  
+         "name":"Kế toán thuê tài chính",
+         "mapcode":"36",
+         "accountcode":"212",
+         "url":"https://i.imgur.com/JLw1ebn.jpg"
+      },
+      {  
+         "name":"Kế toán thuê tài chính",
+         "mapcode":"36(tiep)",
+         "accountcode":"212",
+         "url":"https://i.imgur.com/k580rh2.jpg"
+      },
+      {  
+         "name":"Kế toán thuê tài chính",
+         "mapcode":"36(tiep2)",
+         "accountcode":"212",
+         "url":"https://i.imgur.com/AtpHing.jpg"
+      },
+      {  
+         "name":"Kế toán trả lại hoặc mua lại tài sản thuê tài chính",
+         "mapcode":"36(tiep3)",
+         "accountcode":"212",
+         "url":"https://i.imgur.com/Q1tUP0C.jpg"
+      },
+      {  
+         "name":"Kế toán tổng hợp tăng, giảm TSCĐ vô hình",
+         "mapcode":"37",
+         "accountcode":"213",
+         "url":"https://i.imgur.com/AS3vkDo.jpg"
+      },
+      {  
+         "name":"Kế toán mua TSCĐ vô hình theo phương thức tả chậm, trả góp",
+         "mapcode":"38",
+         "accountcode":"213",
+         "url":"https://i.imgur.com/CbJaRCc.jpg"
+      },
+      {  
+         "name":"Kế toán trao đổi tài sản cố định vô hình",
+         "mapcode":"39",
+         "accountcode":"213",
+         "url":"https://i.imgur.com/L2Qquh8.jpg"
+      },
+      {  
+         "name":"Kế toán TSCĐ vô hình hình thành từ nội bộ doanh nghiệp trong giai đoạn triển khai",
+         "mapcode":"40",
+         "accountcode":"213",
+         "url":"https://i.imgur.com/GaUCECx.jpg"
+      },
+      {  
+         "name":"Kế toán mua TSCĐ là quyền sử dụng đất cùng với nhà cửa, vật kiến trúc",
+         "mapcode":"41",
+         "accountcode":"213",
+         "url":"https://i.imgur.com/SPdPdrC.jpg"
+      },
+      {  
+         "name":"Kế toán TSCĐ vô hình được tài trợ, biểu tặng",
+         "mapcode":"42",
+         "accountcode":"213",
+         "url":"https://i.imgur.com/sLwuOqT.jpg"
+      },
+      {  
+         "name":"Kế toán thanh lý, nhượng bản TSCĐ vô hình",
+         "mapcode":"43",
+         "accountcode":"213",
+         "url":"https://i.imgur.com/aO2PipF.jpg"
+      },
+      {  
+         "name":"Kế toán hao mòn tài sản cố định",
+         "mapcode":"44",
+         "accountcode":"214",
+         "url":"https://i.imgur.com/Q7oTA58.jpg"
+      },
+      {  
+         "name":"Kế toán tổng hợp tăng, giảm BĐS đầu tư",
+         "mapcode":"45",
+         "accountcode":"217",
+         "url":"https://i.imgur.com/gxxgs4b.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí phát sinh sau ghi nhận ban đầu của bất động sản đầu tư",
+         "mapcode":"46",
+         "accountcode":"217",
+         "url":"https://i.imgur.com/Z4zhKmW.jpg"
+      },
+      {  
+         "name":"Kế toán cho thuê hoạt động bất động sản đầu tư",
+         "mapcode":"47",
+         "accountcode":"217",
+         "url":"https://i.imgur.com/BIukG9E.jpg"
+      },
+      {  
+         "name":"Kế toán bán, thanh lý bất động sản đầu tư",
+         "mapcode":"48",
+         "accountcode":"217",
+         "url":"https://i.imgur.com/8Stii1P.jpg"
+      },
+      {  
+         "name":"Kế toán đầu tư vào công ty con",
+         "mapcode":"49",
+         "accountcode":"221",
+         "url":"https://i.imgur.com/EYfWs5B.jpg"
+      },
+      {  
+         "name":"Kế toán đầu tư vào công ty con",
+         "mapcode":"49(tiep)",
+         "accountcode":"221",
+         "url":"https://i.imgur.com/a7MWbib.jpg"
+      },
+      {  
+         "name":"Kế toán đầu tư vào công ty liên doanh, liên kết",
+         "mapcode":"50",
+         "accountcode":"222",
+         "url":"https://i.imgur.com/S9SUobs.jpg"
+      },
+      {  
+         "name":"Kế toán đầu tư vào công ty liên doanh, liên kết",
+         "mapcode":"50(tiep)",
+         "accountcode":"222",
+         "url":"https://i.imgur.com/ozm56Bn.jpg"
+      },
+      {  
+         "name":"Kế toán thanh lý, nhượng bán khoản đầu tư vào công ty liên doanh liên kết",
+         "mapcode":"51",
+         "accountcode":"222",
+         "url":"https://i.imgur.com/S9SUobs.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu bán hàng, cung cấp dịch vụ",
+         "mapcode":"52",
+         "accountcode":"222",
+         "url":"https://i.imgur.com/TS6Hps6.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí phát sinh chung do mỗi bên tham gia liên doanh phải gánh chịu",
+         "mapcode":"53",
+         "accountcode":"222",
+         "url":"https://i.imgur.com/sGkTztR.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí, doanh thu phát sinh tại mỗi bên liên doanh",
+         "mapcode":"54",
+         "accountcode":"222",
+         "url":"https://i.imgur.com/roqPC3g.jpg"
+      },
+      {  
+         "name":"Kế toán đầu tư khác",
+         "mapcode":"55",
+         "accountcode":"228",
+         "url":"https://i.imgur.com/N8Ts6xO.jpg"
+      },
+      {  
+         "name":"Kế toán dự phòng tổn thất tài sản",
+         "mapcode":"56",
+         "accountcode":"229",
+         "url":"https://i.imgur.com/UwKpmtd.jpg"
+      },
+      {  
+         "name":"Kế toán dự phòng tổn thất tài sản",
+         "mapcode":"56(tiep)",
+         "accountcode":"229",
+         "url":"https://i.imgur.com/UDzReCl.jpg"
+      },
+      {  
+         "name":"Kế toán xây dựng cơ bản dở dang",
+         "mapcode":"57",
+         "accountcode":"241",
+         "url":"https://i.imgur.com/UrC4WXH.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí sửa chữa TSCĐ",
+         "mapcode":"58",
+         "accountcode":"241",
+         "url":"https://i.imgur.com/Z1BYH0H.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí trả trước",
+         "mapcode":"59",
+         "accountcode":"242",
+         "url":"https://i.imgur.com/LD86Wrl.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí trả trước",
+         "mapcode":"59(tiep)",
+         "accountcode":"242",
+         "url":"https://i.imgur.com/N1oF87v.jpg"
+      },
+      {  
+         "name":"Kế toán tài sản thuế thu nhập hoãn lại",
+         "mapcode":"60",
+         "accountcode":"243",
+         "url":"https://i.imgur.com/rtLi2Km.jpg"
+      },
+      {  
+         "name":"Kế toán cầm cố, thế chấp, ký cược, ký quỹ dài hạn",
+         "mapcode":"61",
+         "accountcode":"244",
+         "url":"https://i.imgur.com/Gb0Ug9q.jpg"
+      },
+      {  
+         "name":"Kế toán phải trả người bán",
+         "mapcode":"62",
+         "accountcode":"331",
+         "url":"https://i.imgur.com/NRwhsJp.jpg"
+      },
+      {  
+         "name":"Kế toán thuế và các khoản phải nộp nhà nước",
+         "mapcode":"63",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/BBQ2CuJ.jpg"
+      },
+      {  
+         "name":"Kế toán thuế GTGT đầu ra",
+         "mapcode":"64",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/hxopXCB.jpg"
+      },
+      {  
+         "name":"Kế toán thuế GTGT của hàng nhập khẩu",
+         "mapcode":"65",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/SvJnXgY.jpg"
+      },
+      {  
+         "name":"Kế toán thuế tiêu thụ đặc biệt",
+         "mapcode":"66",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/JCf7dW6.jpg"
+      },
+      {  
+         "name":"Kế toán thuế xuất khẩu",
+         "mapcode":"67",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/tRWEMAF.jpg"
+      },
+      {  
+         "name":"Kế toán thuế nhập khẩu",
+         "mapcode":"68",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/AZeovgz.jpg"
+      },
+      {  
+         "name":"Kế toán thuế thua nhập doanh nghiệp",
+         "mapcode":"69",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/8jrPSk2.jpg"
+      },
+      {  
+         "name":"Kế toán thuế thu nhập cá nhân",
+         "mapcode":"70",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/WRnd3DZ.jpg"
+      },
+      {  
+         "name":"Kế toán thuế tài nguyên",
+         "mapcode":"71",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/yj2rYEe.jpg"
+      },
+      {  
+         "name":"Kế toán thuế nhà đất, tiền thuê đất",
+         "mapcode":"72",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/IA3kaEu.jpg"
+      },
+      {  
+         "name":"Kế toán các loại thuế khác, phí và các khoản phải nộp khác",
+         "mapcode":"73",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/CLGIvIH.jpg"
+      },
+      {  
+         "name":"Kế toán các khoản trợ cấp của nhà nước",
+         "mapcode":"74",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/6SLvvl1.jpg"
+      },
+      {  
+         "name":"Kế toán thuế bảo vệ môi trường",
+         "mapcode":"75",
+         "accountcode":"333",
+         "url":"https://i.imgur.com/aLj35Zo.jpg"
+      },
+      {  
+         "name":"Kế toán phải trả người lao động",
+         "mapcode":"76",
+         "accountcode":"334",
+         "url":"https://i.imgur.com/MJLnVS7.jpg"
+      },
+      {  
+         "name":"Kế toán trích trước tiền lương nghỉ phép, ngừng sản xuất",
+         "mapcode":"77",
+         "accountcode":"335",
+         "url":"https://i.imgur.com/RYNKibQ.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí sửa chữa TSCĐ",
+         "mapcode":"78",
+         "accountcode":"335",
+         "url":"https://i.imgur.com/FCskrMM.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí phải trả",
+         "mapcode":"79",
+         "accountcode":"335",
+         "url":"https://i.imgur.com/L6lMsI7.jpg"
+      },
+      {  
+         "name":"Kế toán phải trả nội bộ",
+         "mapcode":"80",
+         "accountcode":"336",
+         "url":"https://i.imgur.com/JF8unFL.jpg"
+      },
+      {  
+         "name":"Kế toán thanh toán theo tiến độ kế hoạch hợp đồng xây dựng",
+         "mapcode":"81",
+         "accountcode":"337",
+         "url":"https://i.imgur.com/bGuyrTp.jpg"
+      },
+      {  
+         "name":"Kế toán các khoản phải trả, phải nộp khác",
+         "mapcode":"82",
+         "accountcode":"338",
+         "url":"https://i.imgur.com/ebu8MJb.jpg"
+      },
+      {  
+         "name":"Kế toán dự phòng tổn thất tài sản",
+         "mapcode":"82(tiep)",
+         "accountcode":"338",
+         "url":"https://i.imgur.com/Uoaj2va.jpg"
+      },
+      {  
+         "name":"Kế toán các khoản phải trả, phải nộp khác",
+         "mapcode":"82(tiep2)",
+         "accountcode":"338",
+         "url":"https://i.imgur.com/F9i94dH.jpg"
+      },
+      {  
+         "name":"Kế toán vay và nợ thuê tài chính",
+         "mapcode":"83",
+         "accountcode":"341",
+         "url":"https://i.imgur.com/jBjcocP.jpg"
+      },
+      {  
+         "name":"Kế toán phát hành trái phiếu thường",
+         "mapcode":"84",
+         "accountcode":"343",
+         "url":"https://i.imgur.com/oJap0dj.jpg"
+      },
+      {  
+         "name":"Kế toán trái phiếu chuyển đổi",
+         "mapcode":"85",
+         "accountcode":"343",
+         "url":"https://i.imgur.com/uRn8Duf.jpg"
+      },
+      {  
+         "name":"Kế toán nhận ký quỹ, ký cược dài hạn",
+         "mapcode":"86",
+         "accountcode":"344",
+         "url":"https://i.imgur.com/PlkaxHE.jpg"
+      },
+      {  
+         "name":"Kế toán thuế thu nhập hoãn lại phải trả",
+         "mapcode":"87",
+         "accountcode":"347",
+         "url":"https://i.imgur.com/IrHHkeR.jpg"
+      },
+      {  
+         "name":"Kế toán dự phòng phải trả",
+         "mapcode":"88",
+         "accountcode":"352",
+         "url":"https://i.imgur.com/OHreUNn.jpg"
+      },
+      {  
+         "name":"Kế toán quỹ khen thưởng, phúc lợi",
+         "mapcode":"89",
+         "accountcode":"353",
+         "url":"https://i.imgur.com/lE7gpVf.jpg"
+      },
+      {  
+         "name":"Kế toán quỹ phát triển khoa học và công nghệ",
+         "mapcode":"90",
+         "accountcode":"356",
+         "url":"https://i.imgur.com/SEClKgU.jpg"
+      },
+      {  
+         "name":"Kế toán quỹ bình ổn giá",
+         "mapcode":"91",
+         "accountcode":"357",
+         "url":"https://i.imgur.com/PNdiqe9.jpg"
+      },
+      {  
+         "name":"Kế toán vốn đầu tư của chủ sở hữu",
+         "mapcode":"92a",
+         "accountcode":"411",
+         "url":"https://i.imgur.com/neconQb.jpg"
+      },
+      {  
+         "name":"Kế toán vốn đầu tư của chủ sở hữu",
+         "mapcode":"92a(tiep)",
+         "accountcode":"411",
+         "url":"https://i.imgur.com/AfOH0Lk.jpg"
+      },
+      {  
+         "name":"Kế toán thặng dư vốn cổ phần",
+         "mapcode":"92b",
+         "accountcode":"411",
+         "url":"https://i.imgur.com/3g39aUj.jpg"
+      },
+      {  
+         "name":"Kế toán quyền chọn chuyển đổi trái phiếu",
+         "mapcode":"93",
+         "accountcode":"411",
+         "url":"https://i.imgur.com/L1HYFuX.jpg"
+      },
+      {  
+         "name":"Kế toán vốn khác",
+         "mapcode":"94",
+         "accountcode":"411",
+         "url":"https://i.imgur.com/XgPsIG3.jpg"
+      },
+      {  
+         "name":"Kế toán chênh lệch đánh giá lại tài sản",
+         "mapcode":"95",
+         "accountcode":"412",
+         "url":"https://i.imgur.com/uf40Nl6.jpg"
+      },
+      {  
+         "name":"Kế toán chênh lệch tỷ giá hối đoái phát sinh do đánh giá lại các khoản mục tiền tệ có gốc ngoại teeh tại thời điểm báo cáo",
+         "mapcode":"96",
+         "accountcode":"413",
+         "url":"https://i.imgur.com/AteKVZo.jpg"
+      },
+      {  
+         "name":"Kế toán chênh lệch tỷ giá hối đoái khi mua, bán ngoại tệ của hoạt động sản xuất kinh doanh",
+         "mapcode":"97",
+         "accountcode":"413",
+         "url":"https://i.imgur.com/Vq2yf4v.jpg"
+      },
+      {  
+         "name":"Kế toán mua vật tư hàng hóa, dịch vụ, TSCĐ phục vụ cho hoạt động sản xuất kinh doanh bằng ngoại tệ",
+         "mapcode":"98",
+         "accountcode":"413",
+         "url":"https://i.imgur.com/YCUwkHp.jpg"
+      },
+      {  
+         "name":"Kế toán chênh lệch tỷ giá hối đoái phát sinh khi được thanh toán các khoản nợ phải thu bằng ngoại tệ của hoạt động SXKD",
+         "mapcode":"99",
+         "accountcode":"413",
+         "url":"https://i.imgur.com/V6JtGrp.jpg"
+      },
+      {  
+         "name":"Kế toán chênh lệch tỷ giá hối đoái phát sinh khi được thanh toán các khoản nợ phải trả bằng ngoại tệ của hoạt động SXKD",
+         "mapcode":"100",
+         "accountcode":"413",
+         "url":"https://i.imgur.com/EY7O5fQ.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu và thu nhập khác bằng ngoại tệ của hoạt động SXKD",
+         "mapcode":"101",
+         "accountcode":"413",
+         "url":"https://i.imgur.com/pLt5rWm.jpg"
+      },
+      {  
+         "name":"Kế toán quỹ đầu tư phát triển",
+         "mapcode":"102",
+         "accountcode":"414",
+         "url":"https://i.imgur.com/QNp3ijk.jpg"
+      },
+      {  
+         "name":"Kế toán quỹ hỗ trợ sắp xếp doanh nghiệp",
+         "mapcode":"103",
+         "accountcode":"417",
+         "url":"https://i.imgur.com/9BhrMfS.jpg"
+      },
+      {  
+         "name":"Kế toán quỹ khác thuộc nguồn vốn chủ sở hữu",
+         "mapcode":"104",
+         "accountcode":"418",
+         "url":"https://i.imgur.com/cUcmJr3.jpg"
+      },
+      {  
+         "name":"Hạch toán cổ phiếu quỹ",
+         "mapcode":"105",
+         "accountcode":"419",
+         "url":"https://i.imgur.com/p2umCK4.jpg"
+      },
+      {  
+         "name":"Kế toán lợi nhuận sau thuế chưa phân phối",
+         "mapcode":"106",
+         "accountcode":"421",
+         "url":"https://i.imgur.com/3NZMRSY.jpg"
+      },
+      {  
+         "name":"Kế toán nguồn vốn xây dựng cơ bản",
+         "mapcode":"107",
+         "accountcode":"441",
+         "url":"https://i.imgur.com/fyQFq3e.jpg"
+      },
+      {  
+         "name":"Kế toán nguồn kinh phí sự nghiệp",
+         "mapcode":"108",
+         "accountcode":"461",
+         "url":"https://i.imgur.com/LPOSVeX.jpg"
+      },
+      {  
+         "name":"Kế toán nguồn kinh phí đã hình thành TSCĐ",
+         "mapcode":"109",
+         "accountcode":"466",
+         "url":"https://i.imgur.com/cDQmenh.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu bán hàng, cung cấp dịch vụ chịu thuế GTGT tính theo phương pháp khấu trừ",
+         "mapcode":"110a",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/oOYie57.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu bán hàng không chịu thues GTGT",
+         "mapcode":"110b",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/WuzNuVQ.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu bán hàng và cung cấp dịch vụ chịu thuế XK, TTĐB, BVMT",
+         "mapcode":"110c",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/h6FClmr.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu từ chương trình dành cho khách hàng truyền thống",
+         "mapcode":"110d",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/AsQUY3Z.jpg"
+      },
+      {  
+         "name":"Kế toán đối với sản phẩm, hàng hóa, dịch vụ xuất bán cho các đơn vị hạch toán phụ thuộc trong nội bộ doanh nghiệp",
+         "mapcode":"110e",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/Cjp3YQc.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu hợp đồng xây dựng",
+         "mapcode":"110g",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/T5r8wDS.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu hàng đổi hàng không tương tự chịu thuể GTGT tính theo phương pháp khấu trừ",
+         "mapcode":"110h",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/p2aZNAh.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu hàng đổi hàng không tương tự",
+         "mapcode":"110i",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/2UfY68W.jpg"
+      },
+      {  
+         "name":"Kế toán bán hàng đại lý",
+         "mapcode":"110k",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/nrC1O84.jpg"
+      },
+      {  
+         "name":"Kế toán bán hàng đại lý",
+         "mapcode":"110l",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/HrWXW7T.jpg"
+      },
+      {  
+         "name":"Kế toán đơn vị nhận bán hàng đại lý",
+         "mapcode":"110m",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/SPpPEda.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu trợ cấp, trợ giá",
+         "mapcode":"110n",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/bO0gDUK.jpg"
+      },
+      {  
+         "name":"Kế toán xuất kho hàng hóa để biếu tặng",
+         "mapcode":"111a",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/Osk98BR.jpg"
+      },
+      {  
+         "name":"Kế toán trả lương cho người lao động bằng sản phẩm, hàng hóa",
+         "mapcode":"111b",
+         "accountcode":"511",
+         "url":"https://i.imgur.com/tOOllrQ.jpg"
+      },
+      {  
+         "name":"Kế toán doanh thu hoạt động tài chính",
+         "mapcode":"112",
+         "accountcode":"515",
+         "url":"https://i.imgur.com/xOvdFTb.jpg"
+      },
+      {  
+         "name":"Kế toán các khoản giảm trừ doanh thu",
+         "mapcode":"113",
+         "accountcode":"521",
+         "url":"https://i.imgur.com/mJDqY8N.jpg"
+      },
+      {  
+         "name":"Kế toán tổng hợp nguyên liệu, vật liệu ở đơn vị cung cấp dịch vụ",
+         "mapcode":"114",
+         "accountcode":"611",
+         "url":"https://i.imgur.com/oUYCHkR.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí nguyên liệu, vật liệu trực tiếp",
+         "mapcode":"115",
+         "accountcode":"621",
+         "url":"https://i.imgur.com/AWCT2TV.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí nhân công trực tiếp",
+         "mapcode":"116",
+         "accountcode":"622",
+         "url":"https://i.imgur.com/fXMX3v3.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí sử dụng máy thi công",
+         "mapcode":"117",
+         "accountcode":"623",
+         "url":"https://i.imgur.com/fMUEFFL.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí sản xuất chung",
+         "mapcode":"118",
+         "accountcode":"627",
+         "url":"https://i.imgur.com/nG6BDbQ.jpg"
+      },
+      {  
+         "name":"Kế toán giá thành sản xuất",
+         "mapcode":"119",
+         "accountcode":"631",
+         "url":"https://i.imgur.com/PtY6x3y.jpg"
+      },
+      {  
+         "name":"Kế toán giá vốn hàng bán",
+         "mapcode":"120a",
+         "accountcode":"632",
+         "url":"https://i.imgur.com/a2ZAenA.jpg"
+      },
+      {  
+         "name":"Kế toán giá vốn hàng bán",
+         "mapcode":"120b",
+         "accountcode":"632",
+         "url":"https://i.imgur.com/lyNg9D9.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí tài chính",
+         "mapcode":"121",
+         "accountcode":"635",
+         "url":"https://i.imgur.com/OS721J2.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí bán hàng",
+         "mapcode":"122",
+         "accountcode":"641",
+         "url":"https://i.imgur.com/h206Qpi.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí quản lý doanh nghiệp",
+         "mapcode":"123",
+         "accountcode":"642",
+         "url":"https://i.imgur.com/NiRb2sU.jpg"
+      },
+      {  
+         "name":"Kế toán thu nhập khác",
+         "mapcode":"124",
+         "accountcode":"711",
+         "url":"https://i.imgur.com/p9dEFoO.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí khác",
+         "mapcode":"125",
+         "accountcode":"811",
+         "url":"https://i.imgur.com/ulmnTDd.jpg"
+      },
+      {  
+         "name":"Kế toán thu nhập khác về thanh lý, nhượng bán TSCĐ",
+         "mapcode":"126a",
+         "accountcode":"811",
+         "url":"https://i.imgur.com/5fsL4Pi.jpg"
+      },
+      {  
+         "name":"Kế toán thu nhập - chi phí khác phát sinh do đánh giá lại vật tư, hàng hóa, TSCĐ góp vốn đầu tư vào công ty liên doanh, liên kết, đầu tư dài hạn khác",
+         "mapcode":"126b",
+         "accountcode":"811",
+         "url":"https://i.imgur.com/YnSzQhj.jpg"
+      },
+      {  
+         "name":"Kế toán thu nhập khác, chi phí khác phát sinh từ hoạt động bán - thuê lại TSCĐ",
+         "mapcode":"126c",
+         "accountcode":"811",
+         "url":"https://i.imgur.com/PrUevKJ.jpg"
+      },
+      {  
+         "name":"Kế toán thu nhập khác, chi phí khác phát sinh từ hoạt động bán - thuê lại TSCĐ",
+         "mapcode":"126c(tiep)",
+         "accountcode":"811",
+         "url":"https://i.imgur.com/8lYZnf8.jpg"
+      },
+      {  
+         "name":"Kế toán thu nhập khác, chi phí khác phát sinh từ hoạt động bán - thuê lại TSCĐ",
+         "mapcode":"126c(tiep2)",
+         "accountcode":"811",
+         "url":"https://i.imgur.com/kiQ5vyJ.jpg"
+      },
+      {  
+         "name":"Kế toán thu nhập khác, chi phí khác phát sinh từ hoạt động bán - thuê lại TSCĐ",
+         "mapcode":"126c(tiep3)",
+         "accountcode":"811",
+         "url":"https://i.imgur.com/yVQyh8o.jpg"
+      },
+      {  
+         "name":"Kế toán chi phí thuế TNDN",
+         "mapcode":"127",
+         "accountcode":"821",
+         "url":"https://i.imgur.com/11PG6xj.jpg"
+      },
+      {  
+         "name":"Kế toán xác định kết quả kinh doanh",
+         "mapcode":"128",
+         "accountcode":"911",
+         "url":"https://i.imgur.com/uguu1Xq.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp mua bán hàng hóa",
+         "mapcode":"129",
+         "accountcode":"",
+         "url":"https://i.imgur.com/aBJFzBO.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp mua, bán hàng hóa nhập khẩu",
+         "mapcode":"130",
+         "accountcode":"",
+         "url":"https://i.imgur.com/FswBz8a.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp mua và bán hàng trả chậm, trả góp",
+         "mapcode":"131",
+         "accountcode":"",
+         "url":"https://i.imgur.com/dndeBw5.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp thuế GTGT đầu vào",
+         "mapcode":"132",
+         "accountcode":"",
+         "url":"https://i.imgur.com/VS1UrLu.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp đi vay và chi phí đi vay bằng hình thức phát hành trái phiếu",
+         "mapcode":"133",
+         "accountcode":"",
+         "url":"https://i.imgur.com/W4C40e7.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp chi phí sản xuất và tính giá thành sản phẩm, dịch vụ",
+         "mapcode":"134",
+         "accountcode":"",
+         "url":"https://i.imgur.com/CO4Q2Yv.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp hàng bán bị trả lại, bị giảm giá",
+         "mapcode":"135",
+         "accountcode":"",
+         "url":"https://i.imgur.com/MgK91FY.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp cho thuê hoạt động và nhượng bán, thanh lý bất động sản đầu tư",
+         "mapcode":"136",
+         "accountcode":"",
+         "url":"https://i.imgur.com/R3l0Dqo.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp ở đơn vị sản xuất, dịch vụ",
+         "mapcode":"137",
+         "accountcode":"",
+         "url":"https://i.imgur.com/YGjEmzV.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp ở đơn vị kinh doanh hàng hóa",
+         "mapcode":"138",
+         "accountcode":"",
+         "url":"https://i.imgur.com/AAMeAQw.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp hoạt động đầu tư vào công ty liên doanh, liên kết",
+         "mapcode":"139",
+         "accountcode":"",
+         "url":"https://i.imgur.com/Q7zguav.jpg"
+      },
+	  {  
+         "name":"Kế toán tổng hợp chi phí bảo hành công trình xây lắp",
+         "mapcode":"140",
+         "accountcode":"",
+         "url":"https://i.imgur.com/9ijIs1d.jpg"
+      }
+   ]
+}

@@ -1,0 +1,24 @@
+{
+	"group": [
+		{
+			"name": "Tài khoản tài sản",
+			"groupcode": "1",
+			"childcount": "4"
+		},
+		{
+			"name": "Tài khoản nợ phải trả",
+			"groupcode": "2",
+			"childcount": "1"
+		},
+		{
+			"name": "Tài khoản vốn chủ sở hữu",
+			"groupcode": "3",
+			"childcount": "1"
+		},
+		{
+			"name": "Tài khoản XĐ kết quả kinh doanh",
+			"groupcode": "4",
+			"childcount": "2"
+		}
+	]
+}

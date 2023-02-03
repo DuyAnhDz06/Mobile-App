@@ -1,0 +1,44 @@
+{
+	"group": [
+		{
+			"name": "Tài khoản tài sản",
+			"groupcode": "1",
+			"childcount": "33"
+		},
+		{
+			"name": "Tài khoản nợ phải trả",
+			"groupcode": "2",
+			"childcount": "15"
+		},
+		{
+			"name": "Tài khoản vốn chủ sở hữu",
+			"groupcode": "3",
+			"childcount": "11"
+		},
+		{
+			"name": "Tài khoản doanh thu",
+			"groupcode": "4",
+			"childcount": "3"
+		},
+		{
+			"name": "Tài khoản CP sản xuất, kinh doanh",
+			"groupcode": "5",
+			"childcount": "10"
+		},
+		{
+			"name": "Tài khoản thu nhập khác",
+			"groupcode": "6",
+			"childcount": "1"
+		},
+		{
+			"name": "Tài khoản chi phí khác",
+			"groupcode": "7",
+			"childcount": "2"
+		},
+		{
+			"name": "Tài khoản XĐ kết quả kinh doanh",
+			"groupcode": "8",
+			"childcount": "1"
+		}
+	]
+}
